@@ -1,0 +1,11 @@
+{
+  "port": 16335,
+	"logger": {
+		"level": "trace"
+	},
+	"cors": true,
+  "db": {
+    "database": "doto_base_dev"
+  },
+  "site_url": "https://dototest.ahmatov.pro"
+}

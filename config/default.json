@@ -1,0 +1,27 @@
+{
+  "port": 36335,
+	"db": {
+		"user": "",
+		"password": "",
+		"host": "127.0.0.1",
+		"port": "27017",
+		"database": "doto_base"
+	},
+	"encryption_key": "strongPasswordForEncryptionAndDecryptionPrivateKeys",
+	"cors": false,
+	"session_secret": "00000000",
+	"logger": {
+		"level": "trace"
+	},
+	"site_url": "https://dototest.ahmatov.pro",
+	"mailjet":{
+		"sender": "noreply@ahmatov.pro",
+		"publicKey": "4eb1dcfb8e67d011d0a8c9a6e6ccc8b8",
+		"privateKey": "63087ed55f007cb788279f1c9cc49ee2",
+		"fromName": "Doto"
+	},
+	"default_city_uri": "moskva",
+	"yandex": {
+		"key_map": "AF0ZFVsBAAAAqhfqIwMA0sZ02l3qDYz3ClTZeW6vrib76wsAAAAAAAAAAABLfy4_wf0ms6e1VmjxZ5MSFJ58lQ=="
+	}
+}

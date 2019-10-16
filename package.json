@@ -1,0 +1,16 @@
+{
+  "name": "doto-server",
+  "version": "1.0.0",
+  "description": "API server DoTo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vadim Akhmatov",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "logger": "0.0.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "port": 46335,
+	"logger": {
+		"level": "error"
+	},
+	"db": {
+		"user": "",
+		"password": "",
+		"host": "127.0.0.1",
+		"port": "27017",
+		"database": "doto_base_test"
+	},
+	"cors": false
+}

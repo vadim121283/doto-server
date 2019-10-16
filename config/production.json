@@ -1,0 +1,11 @@
+{
+  "port": 36335,
+  "logger": {
+    "level": "info"
+  },
+  "cors": true,
+  "site_url": "https://doto.ahmatov.pro",
+  "db": {
+    "database": "doto_base"
+  }
+}
